@@ -4,7 +4,7 @@
   <title><![CDATA[Category: git | CS Square]]></title>
   <link href="http://cssquare.github.com/course/categories/git/atom.xml" rel="self"/>
   <link href="http://cssquare.github.com/"/>
-  <updated>2013-01-22T18:47:50-04:00</updated>
+  <updated>2013-01-24T17:57:50-04:00</updated>
   <id>http://cssquare.github.com/</id>
   <author>
     <name><![CDATA[Ian Bishop]]></name>
@@ -18,53 +18,47 @@
     <link href="http://cssquare.github.com/course/2013/01/18/employability-crash-course-week-1/"/>
     <updated>2013-01-18T03:07:00-04:00</updated>
     <id>http://cssquare.github.com/course/2013/01/18/employability-crash-course-week-1</id>
-    <content type="html"><![CDATA[<h2>Introduction</h2>
+    <content type="html"><![CDATA[<h2>Course Project</h2>
 
-<p>The purpose of this course is serve as a preparatory bootcamp for students who are planning on going on their first co-op workterm.</p>
+<p>The course is going to be structured around re-creating the wonderful <a href="http://todotxt.com/">Todo.txt</a> project in Java.</p>
 
-<p>University is an effective method of learning many things, especially theoretical Computer Science. The infrastructure of university becomes stretched when it comes to teaching the current industry standards. Technology changes very quickly. As a result, it is difficult for instutitions which are founded on accredidation and well-structured course offerings to keep up.</p>
-
-<p>But that's ok.</p>
-
-<p>Co-op workterms are there to teach you all the stuff that's left out.</p>
-
-<p>Unfortunately, first year students who are embarking on their first co-op term are often limited to 4 month terms. From the perspective of a private company, hiring a fresh-faced developer for such a limited amount of time is risky. They must invest resources (e.g expective developer hours) toward mentoring students, just to prepare them for the tools and practices which are required to develop software. Because of this, companies tend to wait until students are further into their degree program and can stay for longer periods of time.</p>
-
-<p>This creates a predicament where there is a gap between when a student has the sufficient skills in programming to actually be able to develop software professionally and when they are actually given the opportunity to do so.</p>
-
-<p>The purpose of this course is to crush that gap. By introducing you to the meta skills which are required to develop software now, you will be able to pursuit development jobs with confidence in your first term.</p>
-
-<p>In the end, my real hope is that this will impact you in two distinct ways:</p>
-
-<ul>
-<li>You will become more engaged and find purpose in your degree pursuit at an earlier time</li>
-<li>You will gain the understanding that having fun and making silly things is really the best way to get a job around here</li>
-</ul>
-
-
-<h2>Todo.txt</h2>
+<p>You will work in teams to implement the basic features of Todo.txt (there's always more if we run out!) along with your team members over the six weeks of the course.</p>
 
 <h2>Using VirtualBox</h2>
 
-<p>In order to avoid the pain that is configuring development environments, USB sticks have been provided which contain a VirtualBox installer and an image for a virtual machine. The virtual machine is running Ubuntu 12.10 and is pre-configured with all of the software necessary for this course.</p>
+<p>In order to avoid the pain that is configuring development environments, USB sticks have been provided which contain a VirtualBox installer and an image for a virtual machine. The virtual machine is running Ubuntu 12.04 and is pre-configured with all of the software necessary for this course.</p>
 
-<h3>Installing Virtual Box</h3>
+<ul>
+<li>Mount USB</li>
+<li>Use the installer (.dmg for macs, .exe for Windows, linux come talk to me)</li>
+<li>Open up Virtual Box</li>
+<li>Open the virtual box file located in <code>CS Square</code> folder</li>
+<li>Adjust some settings..</li>
+<li>Boot it up! Login is <code>cssquare/cssquare</code></li>
+</ul>
 
-<h3>Running Virtual Box</h3>
 
 <h2>Getting Started with Github</h2>
 
-<h3>What is Github?</h3>
+<p>Head on over to <a href="https://github.com">Github</a> and register for an account.</p>
 
-<h3>Why is Source Control Important?</h3>
-
-<h3>Setting Up a Github Account</h3>
-
-<h2>Practical Git</h2>
+<p>Then head over to Github's great <a href="https://help.github.com/articles/set-up-git">Set Up Git</a> documentation - starting with <strong>Set Up Git</strong>.</p>
 
 <h2>Additional Resources</h2>
 
+<ul>
+<li><a href="https://help.github.com/">Github Documentation</a></li>
+<li><a href="https://github.com/ginatrapani/todo.txt-cli">Bash Implementation of Todo.txt CLI</a></li>
+<li><a href="https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format">Ideas behind Todo.txt</a></li>
+</ul>
+
+
 <h2>Recommended Readings</h2>
+
+<ul>
+<li><a href="http://www.paulgraham.com/hp.html">Hackers and Painters</a></li>
+</ul>
+
 ]]></content>
   </entry>
   
