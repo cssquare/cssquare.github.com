@@ -4,7 +4,7 @@
   <title><![CDATA[Category: employability | CS Square]]></title>
   <link href="http://cssquare.github.com/course/categories/employability/atom.xml" rel="self"/>
   <link href="http://cssquare.github.com/"/>
-  <updated>2013-01-18T18:00:28-04:00</updated>
+  <updated>2013-01-22T18:47:50-04:00</updated>
   <id>http://cssquare.github.com/</id>
   <author>
     <name><![CDATA[Ian Bishop]]></name>
@@ -18,11 +18,53 @@
     <link href="http://cssquare.github.com/course/2013/01/18/employability-crash-course-week-1/"/>
     <updated>2013-01-18T03:07:00-04:00</updated>
     <id>http://cssquare.github.com/course/2013/01/18/employability-crash-course-week-1</id>
-    <content type="html"><![CDATA[<p>Here is a bunch of blabbing.</p>
+    <content type="html"><![CDATA[<h2>Introduction</h2>
 
-<p>Just filling in space, yo.</p>
+<p>The purpose of this course is serve as a preparatory bootcamp for students who are planning on going on their first co-op workterm.</p>
 
-<p>Ehhhh.</p>
+<p>University is an effective method of learning many things, especially theoretical Computer Science. The infrastructure of university becomes stretched when it comes to teaching the current industry standards. Technology changes very quickly. As a result, it is difficult for instutitions which are founded on accredidation and well-structured course offerings to keep up.</p>
+
+<p>But that's ok.</p>
+
+<p>Co-op workterms are there to teach you all the stuff that's left out.</p>
+
+<p>Unfortunately, first year students who are embarking on their first co-op term are often limited to 4 month terms. From the perspective of a private company, hiring a fresh-faced developer for such a limited amount of time is risky. They must invest resources (e.g expective developer hours) toward mentoring students, just to prepare them for the tools and practices which are required to develop software. Because of this, companies tend to wait until students are further into their degree program and can stay for longer periods of time.</p>
+
+<p>This creates a predicament where there is a gap between when a student has the sufficient skills in programming to actually be able to develop software professionally and when they are actually given the opportunity to do so.</p>
+
+<p>The purpose of this course is to crush that gap. By introducing you to the meta skills which are required to develop software now, you will be able to pursuit development jobs with confidence in your first term.</p>
+
+<p>In the end, my real hope is that this will impact you in two distinct ways:</p>
+
+<ul>
+<li>You will become more engaged and find purpose in your degree pursuit at an earlier time</li>
+<li>You will gain the understanding that having fun and making silly things is really the best way to get a job around here</li>
+</ul>
+
+
+<h2>Todo.txt</h2>
+
+<h2>Using VirtualBox</h2>
+
+<p>In order to avoid the pain that is configuring development environments, USB sticks have been provided which contain a VirtualBox installer and an image for a virtual machine. The virtual machine is running Ubuntu 12.10 and is pre-configured with all of the software necessary for this course.</p>
+
+<h3>Installing Virtual Box</h3>
+
+<h3>Running Virtual Box</h3>
+
+<h2>Getting Started with Github</h2>
+
+<h3>What is Github?</h3>
+
+<h3>Why is Source Control Important?</h3>
+
+<h3>Setting Up a Github Account</h3>
+
+<h2>Practical Git</h2>
+
+<h2>Additional Resources</h2>
+
+<h2>Recommended Readings</h2>
 ]]></content>
   </entry>
   
